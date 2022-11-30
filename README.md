@@ -8,7 +8,7 @@ https://planta-landingpage.netlify.app/
 
 ## Eklenecekler
 
-- Responsive design
+- Responsive Tasarım
 
 ## Ekran Görüntüleri
 
