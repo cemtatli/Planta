@@ -16,7 +16,7 @@ https://planta-landingpage.netlify.app/
 
 ## Eklenecekler
 
-- Responsive Tasarm
+- Responsive Tasarım
 
 ## Bilgisayarınızda Çalıştırın
 
