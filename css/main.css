@@ -203,6 +203,10 @@ a {
 .container .content-2 .content-left img {
   border-radius: 0px 0px 15rem 0px;
 }
+.container .content-2 .content-left img:hover {
+  transform: scale(1.05);
+  transition: 0.3s all ease-in-out;
+}
 .container .content-2 .content-right {
   justify-content: center;
   display: flex;
@@ -229,8 +233,8 @@ a {
   display: flex;
   align-items: center;
   color: #224722;
-  width: 300px;
   margin-bottom: 1rem;
+  width: 400px;
 }
 .container .content-2 .content-right p {
   font-family: "Inter";
@@ -298,8 +302,8 @@ a {
   display: flex;
   align-items: center;
   color: #224722;
-  width: 300px;
   margin-bottom: 1rem;
+  width: 400px;
 }
 .container .content-3 .content-left p {
   font-family: "Inter";
@@ -346,6 +350,10 @@ a {
 .container .content-3 .content-right img {
   border-radius: 50%;
 }
+.container .content-3 .content-right img:hover {
+  transform: scale(1.05);
+  transition: 0.3s all ease-in-out;
+}
 .container .content-4 {
   display: flex;
   justify-content: space-between;
@@ -362,6 +370,10 @@ a {
 }
 .container .content-4 .content-left img {
   border-radius: 0px 305px 305px 0px;
+}
+.container .content-4 .content-left img:hover {
+  transform: scale(1.05);
+  transition: 0.3s all ease-in-out;
 }
 .container .content-4 .content-right {
   justify-content: center;
@@ -389,7 +401,6 @@ a {
   display: flex;
   align-items: center;
   color: #224722;
-  width: 300px;
   margin-bottom: 1rem;
 }
 .container .content-4 .content-right p {
@@ -458,7 +469,6 @@ a {
   display: flex;
   align-items: center;
   color: #224722;
-  width: 300px;
   margin-bottom: 1rem;
 }
 .container .content-5 .content-left p {
@@ -506,6 +516,10 @@ a {
 .container .content-5 .content-right img {
   border-radius: 6rem;
 }
+.container .content-5 .content-right img:hover {
+  transform: scale(1.05);
+  transition: 0.3s all ease-in-out;
+}
 .container .content-5 .content-left {
   justify-content: center;
   display: flex;
@@ -532,7 +546,6 @@ a {
   display: flex;
   align-items: center;
   color: #224722;
-  width: 300px;
   margin-bottom: 1rem;
 }
 .container .content-5 .content-left p {
@@ -587,8 +600,8 @@ a {
   display: flex;
   align-items: center;
   color: #224722;
-  width: 300px;
   margin-bottom: 1rem;
+  justify-content: center;
 }
 .container .comment-container .comment-card .buttons {
   width: 100%;
@@ -729,7 +742,6 @@ a {
   display: flex;
   align-items: center;
   color: #224722;
-  width: 300px;
   margin-bottom: 1rem;
   width: 100%;
   justify-content: center;
